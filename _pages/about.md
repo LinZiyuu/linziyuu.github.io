@@ -28,7 +28,7 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 # 📝 Publications 
 
 
-- [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack]
+- CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
   - **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
   - The 33rd USENIX Security Symposium
