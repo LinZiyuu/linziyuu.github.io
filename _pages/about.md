@@ -29,7 +29,7 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 - [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack]
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
   - **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
   - The 33rd USENIX Security Symposium ([Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24)) 
   - This paper is about exploiting CDN Back-to-Origin strategies to launch a new class of amplification attacks.
