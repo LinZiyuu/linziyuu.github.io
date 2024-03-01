@@ -37,7 +37,7 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 📖 Educations
-- *2022.06 - 2025.06(now)*, Master, Fuzhou University, Fuzhou.
+- *2022.06 - present*, Master, Fuzhou University, Fuzhou.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
 
 
