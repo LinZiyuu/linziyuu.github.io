@@ -43,4 +43,4 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 💻 Internships
-- *2023.01 - present*, [NISL@THU](https://netsec.ccert.edu.cn/en/), China.
+- *2023.01 - present*, [NISL at Tsinghua University](https://netsec.ccert.edu.cn/en/), Research Assistant.
