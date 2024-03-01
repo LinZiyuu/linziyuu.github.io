@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, advised by Prof. Ximeng Liu. My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
+Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, advised by [Prof. Ximeng Liu](https://ccds.fzu.edu.cn/info/1206/5178.htm). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
 
 
 
@@ -32,10 +32,6 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack] **Usenix Security 2024**
 
 **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 
