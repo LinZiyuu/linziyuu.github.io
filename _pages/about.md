@@ -40,6 +40,9 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 - *2022.06 - present*, Master, Fuzhou University, Fuzhou.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
 
+# 🎖 Honors and Awards
+- *2024.01* Best Paper Award, 2024 2nd International Conference on Big Data and Privacy Computing. 
+- *2022.12* 3rd Place of TEE Track in 2022 World Privacy-Preserving Computing Competition (WPPCC) 
 
 
 # 💻 Internships
