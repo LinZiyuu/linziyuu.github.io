@@ -51,5 +51,5 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 💻 Internships
-- *2023.01 - present*, NISL at Tsinghua University, Research Assistant.
 - *2024.05 - present*, Sigapore Management University, Research Assistant.
+- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant
