@@ -41,6 +41,7 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 📖 Educations
+- *2024.05 - present*, Master(Visiting Student), Sigapore Management University, Sigapore.
 - *2022.06 - present*, Master, Fuzhou University, Fuzhou.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
 
@@ -51,3 +52,4 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 # 💻 Internships
 - *2023.01 - present*, NISL at Tsinghua University, Research Assistant.
+- *2024.05 - present*, Sigapore Management University, Research Assistant.
