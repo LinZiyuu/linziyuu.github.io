@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, advised by [Prof. Ximeng Liu](https://ccds.fzu.edu.cn/info/1206/5178.htm). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
+Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, supervised by [Prof. Ximeng Liu](https://ccds.fzu.edu.cn/info/1206/5178.htm). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
 
 <font color="red"> I am currently looking for a PhD position in 25 Fall. </font> 
 
@@ -51,5 +51,5 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 💻 Internships
-- *2024.05 - present*, Sigapore Management University, Research Assistant.
-- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant
+- *2024.05 - present*, Sigapore Management University, Research Assistant (supervised by [Prof. Robert Deng]([http://www.mysmu.edu/faculty/robertdeng/])) and [Prof. Daoyuan Wu]([[http://www.mysmu.edu/faculty/robertdeng/](https://daoyuan14.github.io/)]))).
+- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen]([https://ccds.fzu.edu.cn/info/1206/5178.htm](https://www.jianjunchen.com/))).
