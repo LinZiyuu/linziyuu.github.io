@@ -51,5 +51,5 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 💻 Internships
-- *2024.05 - present*, Sigapore Management University, Research Assistant (supervised by [Prof. Robert Deng]([http://www.mysmu.edu/faculty/robertdeng/])) and [Prof. Daoyuan Wu]([[http://www.mysmu.edu/faculty/robertdeng/](https://daoyuan14.github.io/)]))).
-- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen]([https://ccds.fzu.edu.cn/info/1206/5178.htm](https://www.jianjunchen.com/))).
+- *2024.05 - present*, Sigapore Management University, Research Assistant (supervised by [Prof. Robert Deng]([http://www.mysmu.edu/faculty/robertdeng/]) and [Prof. Daoyuan Wu]([https://daoyuan14.github.io/])).
+- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen]([https://www.jianjunchen.com/]) and [Dr. Run Guo]([https://netsec.ccert.edu.cn/people/gr15])).
