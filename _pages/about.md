@@ -20,7 +20,8 @@ redirect_from:
 Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, supervised by [Prof. Ximeng Liu](https://ccds.fzu.edu.cn/info/1206/5178.htm). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
 
 <font color="red"> I am currently looking for a PhD position in 25 Fall. </font> 
-<font color="black"> Here is my [CV](https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/CV.pdf). </font> 
+
+Here is my [CV](https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/CV.pdf). 
 
 
 
