@@ -19,9 +19,7 @@ redirect_from:
 
 Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of Software Engineering at Fuzhou University, supervised by [Prof. Ximeng Liu](https://ccds.fzu.edu.cn/info/1206/5178.htm). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
 
-<font color="red"> I am currently looking for a PhD position in 25 Fall. </font> 
-
-Here is my [CV](https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/CV.pdf). 
+<font color="red"> I am seeking PhD and MPhil opportunities for Fall 2025. If you are interested, please do not hesitate to contact me directly.</font> 
 
 
 
@@ -36,16 +34,19 @@ Here is my [CV](https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/
 # 📝 Publications 
 
 
-- CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack
+- [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack](https://www.usenix.org/system/files/usenixsecurity24-lin-ziyu.pdf)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
   - **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
   - The 33rd USENIX Security Symposium
   - This paper is about exploiting CDN Back-to-Origin strategies to launch a new class of amplification attacks.
-
+  - 
+- [Detecting and Measuring Security Implications of Entangled Domain Verification in CDN](https://arxiv.org/pdf/2409.01887)
+  - **Ziyu Lin**, Zhiwei Lin, Run Guo, Jianjun Chen, Mingming Zhang, Ximeng Liu, Tianhao Yang, Zhuoran Cao, Robert H. Deng
+  - This paper is about automatically detecting Domain Verification vulnerabilities in CDN.
 
 
 # 📖 Educations
-- *2024.05 - present*, Master(Visiting Student), Sigapore Management University, Sigapore.
+- *2024.05 - present*, Master (Visiting Student), Sigapore Management University, Sigapore.
 - *2022.06 - present*, Master, Fuzhou University, Fuzhou.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
 
