@@ -39,7 +39,6 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
   - **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
   - The 33rd USENIX Security Symposium
   - This paper is about exploiting CDN Back-to-Origin strategies to launch a new class of amplification attacks.
-  - 
 - [Detecting and Measuring Security Implications of Entangled Domain Verification in CDN](https://arxiv.org/pdf/2409.01887)
   - **Ziyu Lin**, Zhiwei Lin, Run Guo, Jianjun Chen, Mingming Zhang, Ximeng Liu, Tianhao Yang, Zhuoran Cao, Robert H. Deng
   - This paper is about automatically detecting Domain Verification vulnerabilities in CDN.
