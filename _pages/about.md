@@ -28,6 +28,7 @@ Ziyu Lin (林子瑜 in Chinese) is a now Master Candidate in the Department of S
 
 
 # 🔥 News
+- *2024.09*: Our paper Detecting and Measuring Security Implications of Entangled Domain Verification in CDN was available on Arxiv!
 - *2024.03*: &nbsp;🎉🎉 Our paper “CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks” was accepted by Usenix Security, Philadelphia, PA, 2024.
 
 
