@@ -29,12 +29,11 @@ Ziyu Lin (林子瑜 in Chinese) is a third-year Master Student in the Department
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Zhiwei and me will present CDN Cannon at [Black Hat Asia 2025](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932).
-- *2024.09*: Our paper Detecting and Measuring Security Implications of Entangled Domain Verification in CDN was available on Arxiv!
+- *2024.09*: &nbsp;🎉🎉 Our paper Detecting and Measuring Security Implications of Entangled Domain Verification in CDN was available on Arxiv!
 - *2024.03*: &nbsp;🎉🎉 Our paper “CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks” was accepted by Usenix Security, Philadelphia, PA, 2024.
 
 
 # 📝 Publications 
-
 
 - [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack](https://www.usenix.org/system/files/usenixsecurity24-lin-ziyu.pdf)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
@@ -45,6 +44,9 @@ Ziyu Lin (林子瑜 in Chinese) is a third-year Master Student in the Department
   - **Ziyu Lin**, Zhiwei Lin, Run Guo, Jianjun Chen, Mingming Zhang, Ximeng Liu, Tianhao Yang, Zhuoran Cao, Robert H. Deng
   - This paper is about automatically detecting Domain Verification vulnerabilities in CDN.
 
+# 📝 Talks
+- [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932)
+  - **Ziyu Lin**, Zhiwei Lin
 
 # 📖 Educations
 - *2024.05 - 2025.05*, Master (Visiting Student), Sigapore Management University, Sigapore.
