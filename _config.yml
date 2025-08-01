@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziyu Lin"
-description              : "He is a third year Master student working on Network and Web security."
+description              : "He is a Research Assistant working on Network and 5G security."
 repository               : "LinZiyuu/linziyuu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyu Lin"
   avatar           : "images/linziyu.pic.jpg"
-  bio              : "Fuzhou University"
-  location         : "Fuzhou, China"
+  bio              : "National University of Singapore"
+  location         : "Singapore, Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y7amkzYAAAAJ&hl=zh-CN&authuser=1"
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : "https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/CV.pdf"
+  CV               : # "https://github.com/LinZiyuu/linziyuu.github.io/blob/main/assets/CV.pdf"
 
 
 # Reading Files
