@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ziyu Lin (林子瑜 in Chinese) is a third-year Master Student in the Department of Software Engineering at Fuzhou University, supervised by [Prof. Ximeng Liu](https://2uu.org/Cindex.html). My research pursuits revolve around network security, with a primary focus on Content Delivery Network (CDN) security, 5G security and protocol security. My current work aims to discover and solve the security risks posed by CDN forwarding request inconsistencies to build safer, better CDN. My research results have received acknowledgments from well-known CDN vendors such as Cloudflare, Azure, Aliyun, G-core, Cachefly, Qiniu, and Upyun.
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the National University of Singapore. I work in the CISCO & NUS Lab and am advised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, G-core, Cachefly, Qiniu, and Upyun.
 
 
 
@@ -49,8 +49,8 @@ Ziyu Lin (林子瑜 in Chinese) is a third-year Master Student in the Department
   - **Ziyu Lin**, Zhiwei Lin
 
 # 📖 Educations
-- *2024.05 - 2025.05*, Master (Visiting Student), Sigapore Management University, Sigapore.
-- *2022.09 - present*, Master, Fuzhou University, Fuzhou.
+- *2024.05 - 2025.05*, Visiting Student, Sigapore Management University, Sigapore.
+- *2022.09 - 2025.06*, Master, Fuzhou University, Fuzhou.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
 
 # 🎖 Honors and Awards
