@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the National University of Singapore. I work in the CISCO & NUS Lab and am advised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, G-core, Cachefly, Qiniu, and Upyun.
-
-
-
-
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the National University of Singapore. I work in the CISCO & NUS Lab and am advised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, G-Core, Qiniu, Tencent, and UPyun.
 
 
 
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Zhiwei and me will present CDN Cannon at [Black Hat Asia 2025](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932).
+- *2025.03*: &nbsp;🎉🎉 Zhiwei and I will present CDN Cannon at [Black Hat Asia 2025](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932).
 - *2024.09*: &nbsp;🎉🎉 Our paper Detecting and Measuring Security Implications of Entangled Domain Verification in CDN was available on Arxiv!
 - *2024.03*: &nbsp;🎉🎉 Our paper “CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks” was accepted by Usenix Security, Philadelphia, PA, 2024.
 
@@ -49,9 +45,8 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the Natio
   - **Ziyu Lin**, Zhiwei Lin
 
 # 📖 Educations
-- *2024.05 - 2025.05*, Visiting Student, Sigapore Management University, Sigapore.
-- *2022.09 - 2025.06*, Master, Fuzhou University, Fuzhou.
-- *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, Fuzhou.
+- *2022.09 - 2025.06*, Master, Fuzhou University, P.R.C.
+- *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, P.R.C.
 
 # 🎖 Honors and Awards
 - *2024.10* Chinese National Scholarship
@@ -60,6 +55,6 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the Natio
 
 
 # 💻 Internships
-- *2025.05 - present*, National University of Singaprore, Research Assistant (supervised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope)).
-- *2024.05 - 2025.05*, Sigapore Management University, Research Assistant (supervised by [Prof. Robert Deng](http://www.mysmu.edu/faculty/robertdeng/)).
-- *2023.01 - 2024.05*, NISL at Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen](https://www.jianjunchen.com/) and [Dr. Run Guo](https://netsec.ccert.edu.cn/people/gr15)).
+- *2025.05 - 2025.11(expected)*, National University of Singapore, Research Assistant (supervised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope)).
+- *2024.05 - 2025.05*, Singapore Management University, Research Assistant (supervised by [Prof. Robert Deng](http://www.mysmu.edu/faculty/robertdeng/)).
+- *2023.01 - 2024.05*, Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen](https://www.jianjunchen.com/) and [Dr. Run Guo](https://netsec.ccert.edu.cn/people/gr15)).
