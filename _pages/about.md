@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a Research Assistant in the National University of Singapore. I work in the CISCO & NUS Lab and am advised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, G-Core, Qiniu, Tencent, and UPyun.
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am currently a Research Associate at Nanyang Technological University. In Spring 2026, I will become a PhD Student in the School of Computer Science and Engineering at NTU, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Qiniu, and Tencent
 
 
 
