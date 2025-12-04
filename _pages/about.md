@@ -55,6 +55,6 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am currently a Research Associate at
 
 
 # 💻 Internships
-- *2025.05 - 2025.11(expected)*, National University of Singapore, Research Assistant (supervised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/) and [Prof. Prosanta Gope](https://www.sheffield.ac.uk/cs/people/academic/prosanta-gope)).
+- *2025.05 - 2025.11*, National University of Singapore, Research Assistant (supervised by [Prof. Sikdar Biplab](https://cde.nus.edu.sg/ece/staff/biplab-sikdar/)).
 - *2024.05 - 2025.05*, Singapore Management University, Research Assistant (supervised by [Prof. Robert Deng](http://www.mysmu.edu/faculty/robertdeng/)).
-- *2023.01 - 2024.05*, Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen](https://www.jianjunchen.com/) and [Dr. Run Guo](https://netsec.ccert.edu.cn/people/gr15)).
+- *2023.01 - 2024.05*, Tsinghua University, Research Assistant (supervised by [Prof. Jianjun Chen](https://www.jianjunchen.com/)).
