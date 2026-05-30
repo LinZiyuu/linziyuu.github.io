@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyu Lin (林子瑜 in Chinese). I am currently a Research Associate at Nanyang Technological University. In Spring 2026, I will become a PhD Student in the School of Computer Science and Engineering at NTU, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Qiniu, and Tencent
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the School of Computer Science and Engineering at Nanyang Technological University, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Qiniu, and Tencent
 
 
 
@@ -30,6 +30,11 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am currently a Research Associate at
 
 
 # 📝 Publications 
+
+- Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
+  - **Ziyu Lin**, Ziting Wang, Xinfeng Li, Wei Dong, XiaoFeng Wang
+  - The 35rd USENIX Security Symposium
 
 - [CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attack](https://www.usenix.org/system/files/usenixsecurity24-lin-ziyu.pdf)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
@@ -45,6 +50,7 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am currently a Research Associate at
   - **Ziyu Lin**, Zhiwei Lin
 
 # 📖 Educations
+- *2026.01 - present*, PhD, Nanyang Technological University, Singapore.
 - *2022.09 - 2025.06*, Master, Fuzhou University, P.R.C.
 - *2018.09 - 2022.06*, Undergraduate, Fujian Agriculture and Forestry University, P.R.C.
 
