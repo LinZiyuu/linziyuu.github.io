@@ -32,7 +32,7 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the S
 # 📝 Publications 
 
 - Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2024-blue?style=flat-square)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2026-blue?style=flat-square)
   - **Ziyu Lin**, Ziting Wang, Xinfeng Li, Wei Dong, XiaoFeng Wang
   - The 35rd USENIX Security Symposium
 
