@@ -24,12 +24,16 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the S
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper "CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks" was accepted by SRDS, Rome, Italy, 2026.
+- *2026.05*: &nbsp;🎉🎉 Our paper "Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis" was accepted by Usenix Security, Baltimore, MD, 2026.
 - *2025.03*: &nbsp;🎉🎉 Zhiwei and I will present CDN Cannon at [Black Hat Asia 2025](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932).
-- *2024.09*: &nbsp;🎉🎉 Our paper Detecting and Measuring Security Implications of Entangled Domain Verification in CDN was available on Arxiv!
-- *2024.03*: &nbsp;🎉🎉 Our paper “CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks” was accepted by Usenix Security, Philadelphia, PA, 2024.
+- *2024.09*: &nbsp;🎉🎉 Our paper "Detecting and Measuring Security Implications of Entangled Domain Verification in CDN" was available on Arxiv!
+- *2024.03*: &nbsp;🎉🎉 Our paper "CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks" was accepted by Usenix Security, Philadelphia, PA, 2024.
 
 
 # 📝 Publications 
+
+
 
 - Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/USENIX%20Security-2026-blue?style=flat-square)
@@ -41,6 +45,11 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the S
   - **Ziyu Lin**, Zhiwei Lin, Ximeng Liu, Jianjun Chen, Run Guo, Cheng Chen, Shaodong Xiao
   - The 33rd USENIX Security Symposium
   - This paper is about exploiting CDN Back-to-Origin strategies to launch a new class of amplification attacks.
+
+- CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks
+  - **Ziyu Lin**, Tianlong Su, Yingjie Lin, Prosanta Gope, Yinzhi Cao, Ximeng Liu, Biplab Sikdar
+  - The 45th International Symposium on Reliable Distributed Systems
+
 - [Detecting and Measuring Security Implications of Entangled Domain Verification in CDN](https://arxiv.org/pdf/2409.01887)
   - **Ziyu Lin**, Zhiwei Lin, Run Guo, Jianjun Chen, Mingming Zhang, Ximeng Liu, Tianhao Yang, Zhuoran Cao, Robert H. Deng
   - This paper is about automatically detecting Domain Verification vulnerabilities in CDN.
