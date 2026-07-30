@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the School of Computer Science and Engineering at Nanyang Technological University, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Qiniu, and Tencent
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the School of Computer Science and Engineering at Nanyang Technological University, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security ,agent security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Huntr, Qiniu, and Tencent
 
 
 
@@ -46,7 +46,7 @@ Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the S
   - The 33rd USENIX Security Symposium
   - This paper is about exploiting CDN Back-to-Origin strategies to launch a new class of amplification attacks.
 
-- CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks
+- [CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks](https://arxiv.org/pdf/2607.26589)![](https://img.shields.io/badge/CCF-B-red?style=flat-square) ![](https://img.shields.io/badge/SRDS-2026-blue?style=flat-square)
   - **Ziyu Lin**, Tianlong Su, Yingjie Lin, Prosanta Gope, Yinzhi Cao, Ximeng Liu, Biplab Sikdar
   - The 45th International Symposium on Reliable Distributed Systems
 
