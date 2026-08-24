@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD Student in the School of Computer Science and Engineering at Nanyang Technological University, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on 5G security ,agent security and network protocol security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Huntr, Qiniu, and Tencent
-
+Hi! I am Ziyu Lin (林子瑜 in Chinese). I am a first-year PhD student in the College of Computing and Data Science at Nanyang Technological University, co-advised by [Prof. XiaoFeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://ntu-dps.com/). My research focuses on cellular network security, agent security and content delivery network security. My research results have received acknowledgments from well-known CDN vendors such as Azure, Alibaba, Baidu, Cloudflare, Cachefly, Edgio, G-Core, Huntr, Qiniu, and Tencent.
 
 
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our paper "CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks" was accepted by SRDS, Rome, Italy, 2026.
+- *2026.07*: &nbsp;🎉🎉 Our paper "CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks" was accepted by SRDS, Rome, Italy, 2026. (Media Coverage: [The Hacker News](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html))
 - *2026.05*: &nbsp;🎉🎉 Our paper "Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis" was accepted by Usenix Security, Baltimore, MD, 2026. (Media Coverage: [The Hacker News](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html), [Help Net Security](https://www.helpnetsecurity.com/2026/08/11/5g-core-network-vulnerabilities-research/))
 - *2025.03*: &nbsp;🎉🎉 Zhiwei and I will present CDN Cannon at [Black Hat Asia 2025](https://www.blackhat.com/asia-25/briefings/schedule/index.html#cdn-cannon-exploiting-cdn-back-to-origin-strategies-for-amplification-attacks-43932).
 - *2024.09*: &nbsp;🎉🎉 Our paper "Detecting and Measuring Security Implications of Entangled Domain Verification in CDN" was available on Arxiv!
